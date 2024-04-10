@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_student"
+        android:title="ADD STUDENT"/>
+    <item
+        android:id="@+id/show_Calendar"
+        android:title="Change Date"/>
+    <item
+        android:id="@+id/logout"
+        android:title="LOGOUT"/>
+    <item
+        android:id="@+id/action_open_pdf"
+        android:title="Open PDF"
+        android:visible="false"
+        android:icon="@drawable/pdf"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/generate_pdf"
+        android:title="Open PDF"
+        android:icon="@drawable/icon_save"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>

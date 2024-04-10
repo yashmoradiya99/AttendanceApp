@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="menu_generate_pdf" type="id"/>
+    <item name="menu_view_pdf" type="id"/>
+</resources>
